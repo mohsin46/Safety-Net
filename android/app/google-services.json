@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876277115056",
+    "project_id": "safety-net-5c62b",
+    "storage_bucket": "safety-net-5c62b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876277115056:android:2bcc45429ec3e9d3f4f375",
+        "android_client_info": {
+          "package_name": "com.dreamcoders.safety_net"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876277115056-en2i9bd99trsmd4elv65eosv0upudh0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3YWHSeje8iTxSZTTXDs1au6hfukuAIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876277115056-en2i9bd99trsmd4elv65eosv0upudh0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
